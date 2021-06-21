@@ -1,0 +1,10 @@
+[package]
+name = "priority_queue"
+version = "0.1.0"
+authors = ["On0n0k1 <stiltztinkerstein@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+dotenv = "0.15.0"
